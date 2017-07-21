@@ -1,4 +1,4 @@
-# 一键 Go Hosts Windows版
+# 一键 Go Hosts Windows版（已失效）
 Go Hosts for Windows
 
 ## 功能
